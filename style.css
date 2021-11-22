@@ -1,0 +1,13 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+}
+.container{
+    height: 100vh;
+}
+.aukstis{
+    height: 25vh;
+}
+.aukstesnis{
+    height: 50vh;
+}
